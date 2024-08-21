@@ -189,11 +189,11 @@ header h1 {
     }
 
     .about-image {
-        margin-bottom: 20px; /* Adjusts spacing when the image is above the text */
+        margin-bottom: 20px;
     }
 
     .about-image img {
-        height: auto; /* Maintains the image aspect ratio on smaller screens */
+        height: auto;
     }
 }
 /* #endregion */
@@ -271,7 +271,7 @@ header h1 {
 }
 
 .mobile-menu ul {
-    list-style: none; /* Removes the circles from list items */
+    list-style: none;
     padding: 0;
     margin: 0;
 }
